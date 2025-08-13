@@ -1,5 +1,7 @@
 # QUICK HOSPITAL
 
-Cosa si impara:
+## Cosa si impara
+  + Ordinamento
 
-a) Ordinamento
+## Problemi
+  ho usato "adesso" nei vincoli (non si può usare)

@@ -4,4 +4,4 @@
   + Ordinamento
 
 ## Problemi
-  ho usato "adesso" nei vincoli (non si può usare)
+  + ho usato "adesso" nei vincoli (non si può usare)
